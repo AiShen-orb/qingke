@@ -183,5 +183,5 @@ npm run dev                # Vite 开发服务器，/api 自动代理到 8080
 本项目采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)（署名-非商业性使用）许可：
 
 - ✅ 允许：学习、阅读、转载、修改、二次分发代码
-- ⚠️ 条件：注明原作者（Theshy890）与出处，且**不得用于商业用途**
+- ⚠️ 条件：注明原作者（AiShen-orb）与出处，且**不得用于商业用途**
 - 完整条款见根目录 [LICENSE](LICENSE) 文件

@@ -26,5 +26,5 @@
 - **工程实践**：JWT 角色鉴权、管理端路径拦截、AOP 操作审计、全局异常持久化、敏感配置外置
 - 上线前清理：移除死代码与未引用模块、数据库初始化脚本 `db/qingke.sql`、README 与 16 张界面截图
 
-[v1.1.0]: https://github.com/Theshy890/qingke/compare/v1.0.0...v1.1.0
-[v1.0.0]: https://github.com/Theshy890/qingke/tree/v1.0.0
+[v1.1.0]: https://github.com/AiShen-orb/qingke/compare/v1.0.0...v1.1.0
+[v1.0.0]: https://github.com/AiShen-orb/qingke/tree/v1.0.0
